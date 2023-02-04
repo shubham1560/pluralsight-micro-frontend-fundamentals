@@ -63,6 +63,9 @@ This folder has 4 applications:
 3. Run the command: npm run start
 
 ### Fourth, For container-angular Application
+For angular application, have the angular cli installed with this command: npm install -g @angular/cli
+If any problem persists, please refer to this documentation: https://angular.io/cli
+
 1. Go inside Run Time Integration with Framework > container-angular in terminal
 2. Run the command: npm install
 3. Run the command: ng serve
