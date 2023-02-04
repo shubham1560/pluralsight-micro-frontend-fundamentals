@@ -73,7 +73,6 @@ If any problem persists, please refer to this documentation: https://angular.io/
 Once, everything is up and running, 
 
  <br>go to this url for react container: http://localhost:8080/
-
  <br>go to this url for angular container: http://localhost:4200/
 
 
