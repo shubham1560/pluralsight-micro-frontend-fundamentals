@@ -1,0 +1,20 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "title": "Mouse",
+            "detail": "A computer mouse (plural mice, sometimes mouses) is a hand-held pointing device that detects two-dimensional motion relative to a surface."
+        },
+        {
+            "id": 21,
+            "title": "Monitor",
+            "detail": "A computer monitor is an output device that displays information in pictorial or textual form."
+        },
+        {
+            "id": 3,
+            "title": "Keyboard",
+            "detail": "A computer keyboard is a peripheral input device modeled after the typewriter keyboardwhich uses an arrangement of buttons."
+        }
+
+    ]
+}
