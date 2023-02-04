@@ -1,7 +1,7 @@
 # Welcome to the Pluralsight Micro Frontend Fundamentals Course files
 
 There are two folders inside:
-  1. Run Time Itegration Vanilla Javascript
+  1. Run Time Integration Vanilla Javascript
   2. Run Time Integration with Framework
   
 For this Repository: make sure you have the required dependencies installed:
@@ -70,8 +70,11 @@ If any problem persists, please refer to this documentation: https://angular.io/
 2. Run the command: npm install
 3. Run the command: ng serve
 
-Once, everything is up and running, go to this url for react container: http://localhost:8080/
-go to this url for angular container: http://localhost:4200/
+Once, everything is up and running, 
+
+ <br>go to this url for react container: http://localhost:8080/
+
+ <br>go to this url for angular container: http://localhost:4200/
 
 
 
